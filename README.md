@@ -23,4 +23,4 @@ Data Pipelines & ETL • Machine Learning • Computer Vision • NLP • API De
 
 ### Currently Working On
 - **Veletic AI** (Co-founder): Real-time ML for SMS fraud/phishing detection - won €1,000 funding from Rabobank. Early-stage startup development.
-- **AsiumaDent**: Flask app for dental X-ray analysis using PyTorch object detection + LLM-powered explanations and treatment recommendations. Work in progress (details available on request once ready).
+- **RayDent**: Flask application for dental students preparing for exams in X-ray analysis. Using PyTorch-based object detection model. Integrated with LLMs API for automated diagnosis explanations and dental ontology.
